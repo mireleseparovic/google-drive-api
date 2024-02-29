@@ -17,7 +17,7 @@ Anote o "ID do Cliente" e o "Segredo do Cliente".
 
 <h2>2. Alterações </h2>
 <ul>
-<li>Abra o arquivo config.js e substitua SEU_ID_DO_CLIENTE, SEU_SEGREDO_DO_CLIENTE e ID_DA_PASTA pelas credenciais obtidas na configuração da API do Google.</li>
+<li>Abra o arquivo config.js e substitua <b>SEU_ID_DO_CLIENTE, SEU_SEGREDO_DO_CLIENTE e ID_DA_PASTA </b>pelas credenciais obtidas na configuração da API do Google.</li>
 <li>Não se esqueça de dar permissão no console developer como:<em>http://localhost:3000</em>,<em>https://www.googleapis.com/auth/drive.file</em>,<em>http://localhost:3000/auth/callback</em></li>
 </ul>
 
