@@ -7,8 +7,8 @@ const app = express();
 const port = 3000;
 
 // Configuração da API do Google Drive
-const CLIENT_ID = '42963561487-020sughujtq202g4vlje59fof8gvag81.apps.googleusercontent.com';
-const CLIENT_SECRET = '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';
+const CLIENT_ID = '---';
+const CLIENT_SECRET = '---';
 const REDIRECT_URI = 'http://localhost:3000/auth/callback';
 const SCOPES = ['https://www.googleapis.com/auth/drive.file'];
 
