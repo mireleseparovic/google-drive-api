@@ -15,8 +15,7 @@ Vá para "APIs e Serviços" > "Credenciais".
 Crie credenciais de cliente OAuth, escolhendo o tipo de aplicativo (por exemplo, "Aplicativo para Desktop").
 Anote o "ID do Cliente" e o "Segredo do Cliente".
 
-<h2>2. Configuração</h2>
-<br>
+<h2>2. Alterações </h2>
 Abra o arquivo config.js e substitua SEU_ID_DO_CLIENTE, SEU_SEGREDO_DO_CLIENTE e ID_DA_PASTA pelas credenciais obtidas na configuração da API do Google.
 
 <h2>Instalação</h2>
