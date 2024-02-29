@@ -20,12 +20,10 @@ Anote o "ID do Cliente" e o "Segredo do Cliente".
 Abra o arquivo config.js e substitua SEU_ID_DO_CLIENTE, SEU_SEGREDO_DO_CLIENTE e ID_DA_PASTA pelas credenciais obtidas na configuração da API do Google.
 
 <h2>Instalação</h2>
-<br>
 -npm install
 <br>
 
 <h2>Uso</h2>
-<br>
 Execute a aplicação:
 -node app.js
 <br>
